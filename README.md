@@ -4,7 +4,9 @@
 
 # Atividade - Semáforo offline
 
-
+<img src="Protoboard.jpeg" alt="Protoboard" width="300">
+<img src="Arduino" alt="Arduino" width="300">
+<img src="Tudo" alt="Tudo" width="300"> 
 
 ### Relato da Montagem e Conexões
 
