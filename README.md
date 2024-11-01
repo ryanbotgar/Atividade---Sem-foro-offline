@@ -1,7 +1,3 @@
-- tabela
-- dvd nomes
-
-
 # Atividade - Semáforo offline
 
 <img src="Protoboard.jpeg" alt="Protoboard" width="300">
