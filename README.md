@@ -4,6 +4,9 @@
 <img src="Arduino" alt="Arduino" width="300">
 <img src="Tudo" alt="Tudo" width="300"> 
 
+#### Vídeo:
+https://youtube.com/shorts/xFJ0irZRtho?feature=share 
+
 ### Relato da Montagem e Conexões
 
 A montagem do semáforo foi realizada em uma protoboard conectada a um Arduino Uno. LEDs vermelho, amarelo e verde foram inseridos na protoboard, representando as fases do semáforo. Cada LED foi conectado ao Arduino usando os seguintes pinos:
